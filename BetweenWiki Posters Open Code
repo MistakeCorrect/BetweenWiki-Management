@@ -1,0 +1,37 @@
+<center><span style="font-size:40px;">Posters</span><center>
+You like publish your Between art? Here is the place for you! Only registered users can publish posters. A poster will be picked as Poster of the month.
+<br>
+Votes:
+<br>
+Check (✔️) if you are in favor
+<br>
+Mark (X or ❌) if you are '''against'''.
+<br>
+Comment (💬) for a comment.
+<br>
+Remember put <nowiki>~~~~</nowiki>
+<br>
+If you like put your poster:
+
+<inputbox>
+type=comment
+buttonlabel=Add your poster
+break=no
+hidden=yes
+default=Between Wiki:Posters
+preload=Between Wiki:Posters/intro
+editintro=Between Wiki:Posters/input
+</inputbox>
+Example of a poster:
+
+<br>
+[[File:Between2poster.jpg|150px]]
+
+
+
+<center>Below are the posters:<center>
+
+== Cow Farm's Sunset Poster by Impostor7804 ==
+
+<center>[[File:WikiBetweenPosters-CowFarmSunset.png|200px]]<center>
+By [[User:Impostor7804|Impostor7804]] ([[User talk:Impostor7804|talk]]) 23:43, 17 February 2021 (UTC)
